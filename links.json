@@ -1,0 +1,79 @@
+[
+    {
+        "name": "常用工具导航",
+        "url": "https://nav.xfxuezhang.cn/",
+        "desc": "NavSphere导航的自部署版",
+        "created_at": "2026-05-17 22:18:25",
+        "id": "05803b8be650fccc"
+    },
+    {
+        "name": "小锋学长的API Hub",
+        "url": "http://xfxuezhang.cn:8082/",
+        "desc": "API 接口列表",
+        "created_at": "2026-05-17 22:09:49",
+        "id": "768a83b4c18ddf12"
+    },
+    {
+        "name": "爱思唯尔论文状态监控",
+        "url": "http://xfxuezhang.cn:8081/",
+        "desc": "自动监控稿件在审稿系统中的状态变化",
+        "created_at": "2026-05-17 22:09:04",
+        "id": "47d5a9294f355fa8"
+    },
+    {
+        "name": "二手平台",
+        "url": "http://xfxuezhang.cn:5000/",
+        "desc": "闲置好物，等你来淘",
+        "created_at": "2026-05-17 22:11:33",
+        "id": "562d976ca0818f56"
+    },
+    {
+        "name": "Google翻译API",
+        "url": "https://translate.xfxuezhang.workers.dev",
+        "desc": "https://xfxuezhang.blog.csdn.net/article/details/161149248",
+        "created_at": "2026-05-17 22:15:21",
+        "id": "eb565ed1f9fbc064"
+    },
+    {
+        "name": "图床",
+        "url": "https://img.xfxuezhang.cn/",
+        "desc": "基于Cloudflare的图床",
+        "created_at": "2026-05-17 22:16:11",
+        "id": "ed8c68385ae78d48"
+    },
+    {
+        "name": "反向代理",
+        "url": "https://pcdn.xfxuezhang.cn/",
+        "desc": "你懂的😏",
+        "created_at": "2026-05-17 22:16:45",
+        "id": "e6ce77ce2c73f6de"
+    },
+    {
+        "name": "URL短链",
+        "url": "https://link.xfxuezhang.cn/",
+        "desc": "sink短链管理",
+        "created_at": "2026-05-17 22:17:18",
+        "id": "ff1554dc16b00ed0"
+    },
+    {
+        "name": "导师评价",
+        "url": "https://supervisor.xfxuezhang.cn/",
+        "desc": "",
+        "created_at": "2026-05-17 22:17:36",
+        "id": "a6e75d9b5ad788d1"
+    },
+    {
+        "name": "呼叫车主挪车",
+        "url": "https://movecar.xfxuezhang.cn/",
+        "desc": "方便地通知车主挪车",
+        "created_at": "2026-05-17 22:19:17",
+        "id": "53a4fb454c00b6ce"
+    },
+    {
+        "name": "能不能吃？",
+        "url": "https://food.xfxuezhang.cn/",
+        "desc": "食品安全与营养相互作用分析助手",
+        "created_at": "2026-05-17 22:21:34",
+        "id": "1e300901a3ae02de"
+    }
+]
