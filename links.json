@@ -14,6 +14,13 @@
         "id": "768a83b4c18ddf12"
     },
     {
+        "id": "10f88cdaf2f90287",
+        "name": "资源下载中心",
+        "url": "https://xfxuezhang.cn/web/download/",
+        "desc": "汇总文件的下载",
+        "created_at": "2026-05-17 22:50:11"
+    },
+    {
         "name": "爱思唯尔论文状态监控",
         "url": "http://xfxuezhang.cn:8081/",
         "desc": "自动监控稿件在审稿系统中的状态变化",
@@ -75,5 +82,56 @@
         "desc": "食品安全与营养相互作用分析助手",
         "created_at": "2026-05-17 22:21:34",
         "id": "1e300901a3ae02de"
+    },
+    {
+        "id": "6bc1821fe5a2246b",
+        "name": "微信对话生成器",
+        "url": "https://xfxuezhang.cn/web/wechat/",
+        "desc": "伪造微信对话",
+        "created_at": "2026-05-17 22:42:05"
+    },
+    {
+        "id": "78320da7a47791c8",
+        "name": "上传头像添加国旗1",
+        "url": "https://xfxuezhang.cn/web/Five-star-red-flag-Avatar/",
+        "desc": "添加的是渐变国旗",
+        "created_at": "2026-05-17 22:43:22",
+        "updated_at": "2026-05-17 22:43:29"
+    },
+    {
+        "id": "657353e68a82f40e",
+        "name": "头像添加国旗2",
+        "url": "https://xfxuezhang.cn/web/head/1/",
+        "desc": "添加的是边框国旗",
+        "created_at": "2026-05-17 22:42:54",
+        "updated_at": "2026-05-17 22:43:43"
+    },
+    {
+        "id": "0782e64f6773fd6b",
+        "name": "VIP视频解析",
+        "url": "https://xfxuezhang.cn/web/vip/",
+        "desc": "免费看VIP视频",
+        "created_at": "2026-05-17 22:44:10"
+    },
+    {
+        "id": "434752732c37c94b",
+        "name": "Tkinter布局助手",
+        "url": "https://xfxuezhang.cn/web/tkinter-helper/",
+        "desc": "Python的拖拽UI生成器",
+        "created_at": "2026-05-17 22:45:17"
+    },
+    {
+        "id": "d35636418fddbbd3",
+        "name": "全景媒体浏览",
+        "url": "https://xfxuezhang.cn/web/vrview",
+        "desc": "浏览360°视频和图片",
+        "created_at": "2026-05-17 22:46:56"
+    },
+    {
+        "id": "a31979bf2c924a2b",
+        "name": "目录构思助手",
+        "url": "https://xfxuezhang.cn/web/toc/",
+        "desc": "头脑风暴构思目录结构",
+        "created_at": "2026-05-17 22:47:47"
     }
 ]
